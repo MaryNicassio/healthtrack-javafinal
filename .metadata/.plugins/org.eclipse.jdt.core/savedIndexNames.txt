@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\marin\OneDrive\Área de Trabalho\Mariana\Analise de sistemas\fase 06\CAPITULO 08\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3450877686.index
+3210755852.index
+2252309159.index
+2422034268.index
